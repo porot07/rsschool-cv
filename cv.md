@@ -1,4 +1,4 @@
-<h1 align="center">CV</h1>
+<h1 align="center"><b>СV</b></h1>
 
 First Name: Semyon
 
