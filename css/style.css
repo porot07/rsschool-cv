@@ -40,6 +40,7 @@ body {
   flex-wrap: wrap;
 
   list-style: none;
+  padding: 0;
 }
 
 .contact-item { text-align: center; }
@@ -68,6 +69,7 @@ body {
 
   /* misc */
   list-style: none;
+  padding: 0;
 }
 
 .col-12 {
@@ -115,6 +117,8 @@ body {
   transition: 1s;
   filter: grayscale(0)
 }
+
+.edu-courses { padding: 0; }
 
 .footer .links {
   display: flex;
